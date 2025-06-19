@@ -1,0 +1,16 @@
+IATA,Name,City,State,Weather_Station
+ATL,Hartsfield-Jackson Atlanta International Airport,Atlanta,GA,USW00013874
+LAX,Los Angeles International Airport,Los Angeles,CA,USW00023174
+ORD,O'Hare International Airport,Chicago,IL,USW00094846
+DFW,Dallas/Fort Worth International Airport,Dallas,TX,USW00003927
+DEN,Denver International Airport,Denver,CO,USW00023062
+JFK,John F. Kennedy International Airport,New York,NY,USW00094789
+SFO,San Francisco International Airport,San Francisco,CA,USW00023234
+SEA,Seattle-Tacoma International Airport,Seattle,WA,USW00024233
+LAS,Harry Reid International Airport,Las Vegas,NV,USW00023169
+MCO,Orlando International Airport,Orlando,FL,USW00012815
+MIA,Miami International Airport,Miami,FL,USW00012839
+CLT,Charlotte Douglas International Airport,Charlotte,NC,USW00013881
+PHX,Phoenix Sky Harbor International Airport,Phoenix,AZ,USW00023183
+IAH,George Bush Intercontinental Airport,Houston,TX,USW00012960
+BOS,Boston Logan International Airport,Boston,MA,USW00014739
