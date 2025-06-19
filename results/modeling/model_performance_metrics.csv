@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1_Score,ROC_AUC,Avg_Precision
+Logistic Regression,1.0,1.0,1.0,1.0,1.0,1.0
+Random Forest,1.0,1.0,1.0,1.0,1.0,1.0
+Gradient Boosting,1.0,1.0,1.0,1.0,1.0,1.0
+SVM,0.9998823529411764,0.9993324432576769,1.0,0.9996661101836394,1.0,1.0
